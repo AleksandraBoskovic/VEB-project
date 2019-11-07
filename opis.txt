@@ -1,0 +1,14 @@
+
+
+Sajt je namenjen za rezervaciju karata i pregled ponude za svirke zakazane u ponudjenjim objektima.
+
+
+Moguce je prijaviti se na nalog kao i registrovati kao novi korisnik.
+
+
+ulogovan kao username aleks1 password aleks1234 je admin stranice i on ima mogucnos dodavanja novi brisanja u azuriranja ponude svirki po objektima
+
+
+
+svaki ulogovani korisnik koji nije admin moze da na strani novosti pregleda ponudu klikom na rezervisi bira za koji objekat zeli da rezervise. Moze svoje rezervacije pregledati na strani Moje rezervacije. 
+
